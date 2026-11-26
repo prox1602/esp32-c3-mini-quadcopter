@@ -4,8 +4,8 @@
 > Custom PCB (Rev 1.0), 3D-printed airframe, and final hardware assembly are complete. Firmware development is currently paused halfway through to finalize the ESP-NOW communication protocol with the custom handheld controller.
 
 <p align="center">
-  <img src="assets/p1.jpg" alt="Assembled ESP32-C3 Mini Quadcopter" width="46%">
-  <img src="assets/p2.jpg" alt="Custom KiCad PCB Mounted on 3D-Printed Frame" width="46%">
+  <img src="assets/p1.png" alt="Assembled ESP32-C3 Mini Quadcopter" width="46%">
+  <img src="assets/p2.png" alt="Custom KiCad PCB Mounted on 3D-Printed Frame" width="46%">
 </p>
 
 A lightweight, custom-built mini quadcopter engineered from scratch — covering KiCad PCB design, discrete MOSFET motor drivers, 3D-printed mechanics, and modular C++ flight firmware built around the **Seeed Studio XIAO ESP32-C3**.
@@ -20,8 +20,8 @@ The primary goal of this project was simple: **design a compact, custom-built qu
 * **ECAD–MCAD Workflow:** This was my first project integrating a custom KiCad board directly into an Autodesk Inventor mechanical assembly (`cad/drone_assembly.stp`) to verify mounting clearances, motor spacing, wire routing channels, and canopy fit before 3D printing.
 
 <p align="center">
-  <img src="assets/printing.jpg" alt="3D Printing the Quadcopter Frame" width="40%">
-  <img src="assets/p3.jpg" alt="3D-Printed Frame with 8520 Motors and Wire Routing" width="52%">
+  <img src="assets/printing.gif" alt="3D Printing the Quadcopter Frame" width="40%">
+  <img src="assets/p3.png" alt="3D-Printed Frame with 8520 Motors and Wire Routing" width="52%">
 </p>
 
 ---
